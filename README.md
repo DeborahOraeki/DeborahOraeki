@@ -1,6 +1,6 @@
 * 👋 Hi there! I'm @DeborahOraeki
   
-* 🎉 Thank you for visiting my GitHub profile! Let's uncover insights and tell stories through data together.
+* 🎉 Thank you for visiting my GitHub profile! Let's uncover insights and tell stories through data together
 * 📚 I am a self-taught Data Analyst proficient in Excel, Power BI/Tableau, SQL, R and Googlesheets 
 * 📊 I’m interested in learning new things about data, collaborating with my fellow data enthuastic and meeting new friends
 * 🌱 I’m currently upskilling my Data Analytics skills
