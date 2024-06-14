@@ -8,8 +8,8 @@
 * ⚡ Fun fact: I love baking and cooking
 
 * 📬 Get in Touch
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZoseJxJZQ7S0LaZgWaZg3g%3D%3D)
-* **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/ogohrah)
+*
+* **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/ogohrah) and  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZoseJxJZQ7S0LaZgWaZg3g%3D%3D)
 * **Email:** [oraekideboraho@gmail.com]
 * **Portfolio:** [Your Portfolio Website](#)
 
