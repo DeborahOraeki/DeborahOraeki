@@ -8,7 +8,7 @@
 * ⚡ Fun fact: I love baking and cooking
 
 * 📬 Get in Touch
-* **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BP8%2FwVGicQl%2B8TUokrwnL%2BA%3D%3D)](#)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BZoseJxJZQ7S0LaZgWaZg3g%3D%3D)
 * **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/ogohrah)
 * **Email:** [oraekideboraho@gmail.com]
 * **Portfolio:** [Your Portfolio Website](#)
